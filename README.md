@@ -18,3 +18,11 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 - **Language:** Dart  
 - **Framework:** Flutter  
 - **IDE:** Visual Studio Code  
+
+## 🖼️ Screenshots
+
+### 🏠 Home Screen
+![Home Screen](https://github.com/purushothamanjerry/Anroide-app/blob/276094bdc6b1aea134b1fddcb8a664f652dc4959/assets/screenshots/Home.jpg?raw=true)
+
+### ➗ Calculation Screen
+![Calculation Screen](https://github.com/purushothamanjerry/Anroide-app/blob/276094bdc6b1aea134b1fddcb8a664f652dc4959/assets/screenshots/Calc.jpg?raw=true)
